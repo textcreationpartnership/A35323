@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity and advantage of an early victory over Satan with some rules for the obtaining it : in a sermon reached to an auditory in London / by T. Cruso.</title>
+            <author>Cruso, Timothy, 1656?-1697.</author>
+         </titleStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35323</idno><idno type="EEBO-CITATION">12657653</idno>
+  <idno type="VID">65413</idno>
+  <idno type="EEBO-PROQUEST">2264207435</idno>
+  
+            <idno type="STC">Wing C7441</idno>
+            <idno type="STC">ESTC R32388</idno>
+            <idno type="OCLC">12657653</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A35323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1525:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity and advantage of an early victory over Satan with some rules for the obtaining it : in a sermon reached to an auditory in London / by T. Cruso.</title>
+                  <author>Cruso, Timothy, 1656?-1697.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockerill and H. Bernard ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Devil --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65413:1"/>
+            <pb facs="tcp:65413:1"/>
+            <p>THE NECESSITY and ADVANTAGE OF AN Early Victory over Satan: WITH Some RULES for the obtaining of it.</p>
+            <p>IN A SERMON PREACHED TO An AUDITORY in <hi>London</hi>
+            </p>
+            <p>
+               <hi>By</hi> T. CRUSO.</p>
+            <q>
+               <bibl>
+                  <hi>Exod. 22.29.</hi>
+               </bibl>
+               <p>Thou shalt not delay to offer the first of thy ripe fruits—</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Cockerill,</hi> and <hi>H. Bernard,</hi> at the <hi>Three Legs,</hi> and the <hi>Bible,</hi> in the <hi>Poultrey.</hi> 1693.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:65413:2"/>
+            <pb facs="tcp:65413:2"/>
+            <head>THE PREFACE.</head>
+            <p>THE general unsuccessfulness of our Publick Ministry, hath been a great while the just and sad Complaint of those that <hi>la<g ref="char:EOLhyphen"/>bour in the Word,</hi> and look after the <hi>Fruit</hi> of that labour; And all sorts of Persons do yet give too much Cause, yea, more Cause than hath been formerly given, for the renewing of this Complaint. Various Applications have been made to various Ranks are <hi>Orders</hi> of Men, but still they have had the same issue, as in the Propheet's time;<note place="margin">Jer. 5.4, 5.</note>
+               <hi>The poor know not the way of the Lord,</hi> and those of <hi>greater</hi> quality, <hi>have broken the Yoke also:</hi> Both wretch<g ref="char:EOLhyphen"/>edly averse to the receiving of Instruction. <hi>Age</hi> and <hi>Youth</hi> have likewise had their Portions of season<g ref="char:EOLhyphen"/>able Counsel, but the desir'd Effect is not hitherto seen; they that are but newly enter'd into the World, and they that are manifestly going out of it, still <hi>joyning hand in hand,</hi> and <hi>drawing Iniquity</hi> together <hi>with cords of Vanity.</hi>
+            </p>
+            <pb facs="tcp:65413:3"/>
+            <p> In this mournful case, any serious Person might very well be stirr'd up to consider, what <hi>Endea<g ref="char:EOLhyphen"/>vours</hi> are to be further used, and upon what <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> they are most likely to make some Impres<g ref="char:EOLhyphen"/>sion: And because it hath been sometimes ob<g ref="char:EOLhyphen"/>served, That God by his Spirit takes hold of <hi>young ones,</hi> when the <hi>Gray-headed</hi> Sinners are left to the ways of their own-hearts, (as the <hi>Parents</hi> of the Man born blind, unthankfully denied Christ before the Pharisees,<note place="margin">John 9.20.21.</note> but their <hi>Son</hi> confest him bold<g ref="char:EOLhyphen"/>ly) it may afford a little the more Encouragement to continue dealing with <hi>them especially.</hi> Be<g ref="char:EOLhyphen"/>sides, as they need to be Men of Eminent skill, who engage in the cure of <hi>inveterate Diseases,</hi> when one of inferior Abilities, may adventure up<g ref="char:EOLhyphen"/>on a <hi>Wound that is fresh;</hi> so it may seem a more proper task for him that willingly <hi>takes the low<g ref="char:EOLhyphen"/>est place</hi> among the Children of the House, to at<g ref="char:EOLhyphen"/>tempt the reducing of vain Prodigals, that are wast<g ref="char:EOLhyphen"/>ing the <hi>dew of their Youth</hi> in the Service of Sin, than to perswade those to a return, who are <hi>full of days,</hi> and of wickedness at once.</p>
+            <p>It is not altogether improbable, that Men may be somewhat the <hi>easier to be intreated</hi> by one of their own Rank; the Apostle intimates thus much, when he says,<note place="margin">1 Pet. 5.1.</note>
+               <hi>The Elders which are among you, I exhort, who am also an Elder;</hi> and if by the like Argument, I might recommend the
+<pb facs="tcp:65413:3"/>folloming Discourse to the better Acceptance of <hi>Ju<g ref="char:EOLhyphen"/>nior</hi> Readers, I shall reckon my self <hi>bound to thank God always, upon every remembrance</hi> of its good Effects, that he put such a Design into my heart, and enabled me in any measure to a per<g ref="char:EOLhyphen"/>formance of it. I am sure, That I cannot be rea<g ref="char:EOLhyphen"/>sonably suspected of serving the ends of <hi>Vain-glo<g ref="char:EOLhyphen"/>ry</hi> by it, and therefore shall not here raise such a suspicion by making the least Apology for its <hi>plain<g ref="char:EOLhyphen"/>ness;</hi> for <hi>that</hi> I have sincerely studied, as far more likely to affect the heart, and be attended with a Divine Blessing, than the most pleasant and artifi<g ref="char:EOLhyphen"/>cial <hi>sound of words.</hi>
+            </p>
+            <p>It ought not to be conceal'd (if it could be) that many-excellent and valuable <hi>Authors,</hi> have with vastly more advantage, as well as in much larger <hi>Treatises,</hi> written to the same purpose; and I freely acknowledge, that I should think my Pains in <hi>this</hi> very well bestowed, if it did but help to re<g ref="char:EOLhyphen"/>vive the serious perusual of some of <hi>them,</hi> which having been published some time since, may be now perhaps forgotten, or too much neglected. He that <hi>comes after</hi> all these, hath great Examples to <hi>follow,</hi> which I am very conscious of doing <hi>afar off;</hi> but I know, That God makes use of several Instruments and Means in his own Work; and many times those, who are under the least Temptaion of <hi>taking his Glory</hi> (if he prosper them) <hi>to them<g ref="char:EOLhyphen"/>selves;</hi>
+               <pb facs="tcp:65413:4"/>for he hath <hi>chosen the weak things of the world to confound the mighty;</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 1.27.</note> and it is possible to him, to make a <hi>poor Lamp in an earthen Pitcher,</hi>
+               <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dges 7.20.</note> as fatal to the Devil's Kingdom, as things of that kind once were to the <hi>Host of Midian.</hi> And therefore in humble Hope of God's effectual Work<g ref="char:EOLhyphen"/>ings by it, I send it forth into the World, earnestly beseeching him, who is the Fountain of Light and Grace, that it may be unprofitable to none that <hi>read</hi> it, that it may be in a particular manner useful to those that <hi>heard</hi> it, and sollicited this <hi>Publi<g ref="char:EOLhyphen"/>cation.</hi>
+            </p>
+            <closer>
+               <signed>T. C.</signed>
+               <date>May <hi>29. 1693.</hi>
+               </date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65413:4"/>
+            <head>THE NECESSITY and ADVANTAGE OF AN Early Victory over Satan.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 JOHN II. 13. (Middle Part.)</hi>
+                  </bibl>
+                  <p>—I write unto you, young men, because yet have overcome the wicked one.—</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HERE is such a fulness in the Scripture, as truly renders it a <hi>perfect Rule,</hi> and capable of <hi>throughly furnishing unto all good works</hi> both the <hi>man of God,</hi> and the <hi>babe in Christ;</hi> for it does so <hi>suitably accommo<g ref="char:EOLhyphen"/>date</hi> it self to the various cases and conditions of all persons, that none need to be at a loss for particular direction, if they will faithfully seek it here. As every one's <hi>general</hi> Duty is plainly laid down, so our most <hi>special</hi> Duties are described likewise, which arise from the special circumstances wherein we stand. And among other things, the Holy Ghost is pleas'd to consider our differing <hi>Ages,</hi> for which reason he makes use of the beloved Disci<g ref="char:EOLhyphen"/>ple's Pen here in the Text, to write to three sorts,
+<pb n="2" facs="tcp:65413:5"/>
+               <hi>Fathers, Young men,</hi> and <hi>little Children;</hi> and he writes that which was proper for them all, according to those measures of <hi>spiritual improvement</hi> and profi<g ref="char:EOLhyphen"/>ciency, which they might be justly suppos'd to make. All that receive the seed into <hi>good ground,</hi> do not bear <hi>equal fruit;</hi>
+               <note place="margin">Matt. 13.23.</note> some bring forth an <hi>hundred fold,</hi> some <hi>sixty,</hi> and some <hi>thirty:</hi> Now if we were to ap<g ref="char:EOLhyphen"/>ply this to those three ranks of persons which have been mentioned, it would be expected that the Fa<g ref="char:EOLhyphen"/>thers should produce an hundred for their share, the Young Men sixty, and the Children thirty.</p>
+            <p>The Distribution made in this <hi>Verse,</hi> is exceeding pertinent: 1. <hi>I write unto you, Fathers, because you have known him that is from the beginning. Fathers</hi> are men of experience, and most conversant with <hi>Antiquity;</hi>
+               <note place="margin">Psalm 44.1.</note> often discoursing of men that have ex<g ref="char:EOLhyphen"/>isted, and things that have been done long since; therefore it is their peculiar accomplishment, to be eminently acquainted with the Everlasting God, with him who was, before any thing else began to be. 2. <hi>I write unto you, young men, because ye have overcome the wicked one.</hi> Persons at <hi>this age</hi> are commonly re<g ref="char:EOLhyphen"/>markable for their activity, frequently delight in <hi>Mi<g ref="char:EOLhyphen"/>litary Exercises,</hi> and are ambitious of conquest; and therefore in the flower of their years it becomes them to be valiant <hi>Soldiers of Christ;</hi> and if through Grace they are made successful against the enemies of their Souls, it is their greatest honour. 3. <hi>I write unto you little children, because ye have known the Father.</hi> Infan<g ref="char:EOLhyphen"/>cy and <hi>Childhood</hi> is not a season of much knowledge; but yet, even then, we usually are able to distinguish our <hi>Parents</hi> from other men;<note place="margin">2 Kings 4.18.</note> and therefore a sanctifi<g ref="char:EOLhyphen"/>ed understanding of God, who is far more to us than our <hi>natural</hi> Progenitors, should grow up with us be<g ref="char:EOLhyphen"/>times.
+<pb n="3" facs="tcp:65413:5"/>And indeed, if in our tender years, when we first begin to speak, and discover some <hi>buddings of reason,</hi> we are taught to have some proportionable sense of our <hi>Father in Heaven,</hi> who hath <hi>formed our spirits within us,</hi> 'tis an happy presage of our future increase in Divine Wisdom.</p>
+            <p>But intending this Discourse chiefly for the instru<g ref="char:EOLhyphen"/>ction of the <hi>second sort,</hi> I shall more largely handle what is written to them: and accordingly I propose this <hi>Doctrinal Truth,</hi> as the foundation of the whole, That</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obs </seg>
+               </label>
+               <hi>An early victory over the wicked one, is the peculiar duty of young persons.</hi>
+            </p>
+            <p>In prosecuting this, I shall endeavour to shew
+<list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="I"/> I. Who is this <hi>wicked one.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="II"/> II. What it is to <hi>overcome</hi> him.</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="III"/> III. How it can be said of any persons in this world, that they <hi>have</hi> overcome him?</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="IV"/> IV. Why this is the peculiar Duty of <hi>young</hi> ones?</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="V"/> V. Apply it.</item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <hi>First,</hi> To shew who is this <hi>wicked one,</hi> for he is exprest here in the singular number, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.)</p>
+            <p>I do not find this <hi>Title</hi> given in Scripture to any but to <hi>Satan,</hi> and to <hi>Antichrist</hi> his First-born. To <hi>Satan</hi> it is twice given by our <hi>Lord</hi> himself;<note place="margin">Matt. 13.19.</note>
+               <hi>Then cometh the wicked one and catcheth away that which was sown in his heart;</hi> which is elsewhere attributed to the <hi>Devil,</hi> in the Explication of the very same Para<g ref="char:EOLhyphen"/>ble.<note place="margin">Mark 4.15.</note> Again,<note place="margin">Matt. 13.39.</note>
+               <hi>the tares are the children of the wicked one</hi> (says Christ) which in plainer terms, is the <hi>chil<g ref="char:EOLhyphen"/>dren of the Devil,</hi> as the same kind of persons are stiled in other places. It is the Character given to
+<pb n="4" facs="tcp:65413:6"/>him once by <hi>Paul;</hi>
+               <note place="margin">Ephes. 6.11, 16.</note> for the same Adversary whom he calls the <hi>Devil</hi> in one verse, he entitles the <hi>wicked,</hi> (or wicked one, as the word might be render'd) in another: It is given to him twice more by <hi>John</hi> in this very Epistle:<note place="margin">1 John 3.12.</note>
+               <hi>Not as Cain, who was of that wicked one,</hi> meaning the <hi>murtherer from the beginning.</hi> And a<g ref="char:EOLhyphen"/>gain, <hi>he who is begotten of God,</hi>
+               <note place="margin">1 John 5.18.</note>
+               <hi>keepeth himself, and that wicked one</hi> (who is emphatically so) <hi>toucheth him not.</hi> The same <hi>Name</hi> is once put upon <hi>Antichrist;</hi> and it is no wonder, for <hi>his coming is after the work<g ref="char:EOLhyphen"/>ing of Satan:</hi>
+               <note place="margin">2 Thes. 2.8, 9. Dan. 11.36.</note>
+               <hi>Then shall that wicked</hi> (or <hi>lwless one</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, resembled formerly by <hi>Antiochus,</hi> who <hi>did according to his</hi> Arbitrary <hi>will</hi>) <hi>be revealed,</hi> &amp;c. If we look to Antichrist's Pedigree, Constitution, and Practice, this Character will be found much more agreeing to him, than that blasphemously assumed Title of <hi>His Holiness,</hi> which the <hi>Roman</hi> Proselites readily bestow upon their Infamous <hi>Head.</hi>
+            </p>
+            <p>Now 'tis evident enough, that Antichrist is not here meant in the Text by <hi>the wicked one;</hi> for how could they be said to <hi>have overcome</hi> him, that had <hi>not yet appear'd;</hi> the <hi>mystery of iniquity</hi> was then <hi>work<g ref="char:EOLhyphen"/>ing,</hi> but not brought forth: <hi>many Antichrists</hi> were risen, very dangerous and Heretical Seducers (such as our Modern opposers of the <hi>Godhead of Christ</hi>) but <hi>the Antichrist</hi> did not discover himself to the world till a great while after. It must therefore be <hi>Satan,</hi> whom the Spirit of God here intends; he being our <hi>principal enemy</hi> without us, though undoubtedly all his Officers and <hi>Emissaries,</hi> his Agents and <hi>Instru<g ref="char:EOLhyphen"/>ments</hi> in the world are included under him, as the objects of our holy Victory; for so 'tis hinted after<g ref="char:EOLhyphen"/>wards; <hi>Ye are of God,</hi>
+               <note place="margin">1 John 4.4.</note>
+               <hi>little children, and have over<g ref="char:EOLhyphen"/>come them.</hi>
+            </p>
+            <pb n="5" facs="tcp:65413:6"/>
+            <p> But then it may be inquir'd, why are those vast <hi>multitudes</hi> of Apostare Spirits, whom we have to combat with, set forth and represented as a <hi>single Ad<g ref="char:EOLhyphen"/>versary?</hi> What an <hi>innumerable Company</hi> of fallen Angels may we well suppose, when a <hi>Legion</hi> of them could be spar'd to take up their <hi>quarters</hi> in one Man?<note place="margin">Mark 5.9.</note> What therefore should be the reason that they are all contracted and summ'd up into a <hi>wicked one?</hi> I an<g ref="char:EOLhyphen"/>swer,</p>
+            <p n="1">1. In <hi>opposition to Christ,</hi>
+               <note place="margin">Acts 3.14.</note> who is stiled the <hi>Holy One.</hi> Our Lord Jesus, and the <hi>Ruler of the darkness of this World,</hi> are the Heads of two contrary Parties; they have their distinct <hi>Seeds,</hi> between whom there is a rooted and incurable <hi>Enmity;</hi> they have two op<g ref="char:EOLhyphen"/>posite <hi>Kingdoms,</hi> and govern by quite contrary <hi>Laws. What concord hath Christ with Belial?</hi>
+               <note place="margin">2 Cor. 6.15.</note> And therefore as Christ is one (not divided, nor multiplied, for there is but <hi>one Mediator</hi> and this is he) so is he that <hi>mi<g ref="char:EOLhyphen"/>litates</hi> against him, describ'd as one likewise.<note place="margin">1 Tim. 2.5.</note>
+            </p>
+            <p n="2">2. In respect of those <hi>many moral Evils,</hi> which are reduced to one <hi>Original</hi> in him. The Devil is the proper <hi>Parent</hi> of most of the Sins, and of all the Sinners in the World; the greatest part of the Evils com<g ref="char:EOLhyphen"/>mitted, are by his Instigation; and the Persons com<g ref="char:EOLhyphen"/>mitting them, are his filthy <hi>Off-spring.</hi> It is laid down as an universal Proposition,<note place="margin">1 John 3.8.</note>
+               <hi>He that committeth sin, is of the Devil.</hi> The several sorts of Transgres<g ref="char:EOLhyphen"/>sors <hi>have all one Father,</hi> for God acknowledges none, but such as are renwed, and <hi>begotten again.</hi> Satan <hi>teacheth the wicked ones his ways,</hi> and makes them <hi>do his Lusts.</hi>
+            </p>
+            <p n="3">3. The Evil Spirits have <hi>one</hi> that is a <hi>chief</hi> among them; or else, what is the meaning of the (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Prince of the Devils?</hi>
+               <note place="margin">Mark 3.22.</note> And why does our Lord speak
+<pb n="6" facs="tcp:65413:7"/>of the <hi>Devil and his Angels?</hi>
+               <note place="margin">Matth. 25.41.</note> This intimates some pre<g ref="char:EOLhyphen"/>heminence and command, or it will seem to be spoken in vain. It is very probable that the <hi>Ringleader</hi> in the first Rebellion (for which they were immiedately expell'd out of Heaven) is still the <hi>President</hi> of that infernal Society; he that gave such a wretched Ex<g ref="char:EOLhyphen"/>ample, does yet exercise a kind of Authority.</p>
+            <p n="4">4. The are all <hi>united</hi> in their <hi>Interests</hi> and black <hi>Designs.</hi> The are universally animated by the <hi>same Spirit</hi> of malignity, and unweariedly pursue the same pernicious <hi>end.</hi> In the general Assembly of <hi>Is<g ref="char:EOLhyphen"/>rael</hi> at <hi>Mizeph,</hi>
+               <note place="margin">Judges 20.1.</note> they are said to be <hi>gathered together as one man;</hi> so there is a most <hi>entire Conjunction</hi> of all the Devils in Hell to promote the dishonour of God, and the ruin of Souls to the very uttermost. Their <hi>Wiles</hi> and Policies do all meet, their <hi>Strength</hi> and Force is all joyn'd together. What is done, they do with <hi>one Consent,</hi> as being perfectly <hi>Confederate</hi> against our Lord, and against us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+               <hi>Secondly,</hi> What is it to <hi>overcome</hi> this wicked one? To open this the more fully, I would do these three things. 1. Undeceive those, who satisfy themselves with a great deal <hi>less</hi> than is <hi>truly necessary.</hi> 2. Re<g ref="char:EOLhyphen"/>move the mistakes of those, who think <hi>more</hi> necessa<g ref="char:EOLhyphen"/>ry, than <hi>indeed is so.</hi> 3. Shew wherein <hi>real Victory</hi> consists.</p>
+            <p n="1">1. To undeceive such as content themselves with <hi>much less</hi> than is truly requir'd to our <hi>overcoming</hi> of the Devil. As</p>
+            <p n="1">1. A <hi>Renunciation</hi> of him and of his works in <hi>Bap<g ref="char:EOLhyphen"/>tism,</hi> is not enough to overcome him. Such a <hi>for<g ref="char:EOLhyphen"/>mal defiance</hi> is often accompanied and followed with a <hi>real subjection.</hi> The application of the <hi>token of the
+<pb n="7" facs="tcp:65413:7"/>covenant</hi> to <hi>Simon Magus,</hi> did not discharge him from the <hi>bond of iniquity.</hi>
+               <note place="margin">Acts 8.13, 23.</note> Many of the worst <hi>enemies of the Cross of Christ,</hi> have been solemnly engag'd to fight under that banner. The Devil hath rather <hi>more power</hi> over some visible professed Christians, who have taken the Redeemer's Badge upon them, than over the most barbarous and bruitish Heathens; as the Uncircumcised Nations of old did him <hi>less service</hi> than some profligate <hi>Jews,</hi> whose Dedication to God had been sealed by <hi>Circumcision.</hi> There is no <hi>Ordinance</hi> of God which works as a <hi>Charm,</hi> without being pra<g ref="char:EOLhyphen"/>ctically improved for our defence against our Spiri<g ref="char:EOLhyphen"/>tual Enemies. If we only give our <hi>Names</hi> to the Lord, Satan may still keep as much as he desires, and be as truly our <hi>Sovereign,</hi> as if we had <hi>sworn Allegi<g ref="char:EOLhyphen"/>ance</hi> to him.</p>
+            <p n="2">2. An <hi>escape from gross Pollutions</hi> is not enough. A may may be as absolutely conquer'd by <hi>Spiritual Wickednesses,</hi> as by any other. Unseen defilements do as effectually maintain and support the Devil's <hi>Empire</hi> in the soul, as the most open debaucheries in the life. Inward <hi>lustings</hi> answer his purpose, as well as outward sensualities; the habitual <hi>lifting up of the heart,</hi> as well as the pride of countenance, or va<g ref="char:EOLhyphen"/>nity of apparel. He that <hi>fulfils the desires of the mind,</hi> tho not the <hi>desires of the flesh,</hi>
+               <note place="margin">Eph. 2.2, 3.</note> still <hi>walks according to the prince of the power of the air.</hi> No <hi>acts</hi> are so scan<g ref="char:EOLhyphen"/>dalous, but that impure <hi>thoughts</hi> and vile <hi>affections</hi> will keep as firm possession for the Devil, as they do. A <hi>vain mind</hi> is his safe harbour, who he do not betray his influence by a notoriously <hi>vain conversation.</hi> A lurking sin in the <hi>bosom</hi> will be the Pillar of his <hi>Throne,</hi> when the behaviour appears most innocent and blameless.</p>
+            <p n="3">
+               <pb n="8" facs="tcp:65413:8"/> 3. A <hi>refusal</hi> of those <hi>Temptations</hi> which are not <hi>adapted to our peculiar corruptions,</hi> is not enough. If we would impartially and exactly know, Whether the Tempter be too <hi>hard for us</hi> or not? Whether he is Conqueror, or we are so? We must <hi>know what spi<g ref="char:EOLhyphen"/>rit we are of,</hi>
+               <note place="margin">Luke 9.55.</note> and which way the <hi>bias</hi> of our Natural Temper <hi>draws</hi> us. We must not make those cases the <hi>Test</hi> where the Devil <hi>shoots wide,</hi> and offers sug<g ref="char:EOLhyphen"/>gestions that we have little or no inducement within us to comply with, but where he <hi>directly hits</hi> our dar<g ref="char:EOLhyphen"/>ling lusts, and lays the delightful bait before us. It may be, we can drive him from all his <hi>slendere Fortifi<g ref="char:EOLhyphen"/>cations,</hi> when he is solliciting us to other sins, but can we beat him out of his <hi>strong-hold,</hi> or stand against him when he <hi>falls in with the stream</hi> of our own sinful inclinations? If the <hi>Money</hi> had not wrought upon <hi>Judas</hi>'s <hi>Covetousness,</hi> perhaps his heart (as bad as it was) would never have been allured into so base a <hi>Treason.</hi>
+            </p>
+            <p n="4">4. A <hi>living in undisturbed Security,</hi> is no sufficient evidence of our overcoming the Devil, but rather gives suspicion of the contrary, They that are least <hi>troubled,</hi> are generally most under the <hi>prevailing power</hi> of Temptation. It is not for Satan's interest to <hi>terrify,</hi> where he reigns without <hi>controul;</hi> it much more concerns him to feed our <hi>presumptions,</hi>
+               <note place="margin">Luke 11.21.</note> and lull us asleep by a <hi>false peace,</hi> lest our awakening should make way for our Conversion. If the Devil should ordinarily perplex and disquiet his own Subjects, they might <hi>bethink themselves</hi> of shaking off his yoke; and therefore he strives for the most part to make his Government easy, by <hi>stupifying</hi> those that submit to it. When we are least <hi>sensible</hi> of the Devil's opposi<g ref="char:EOLhyphen"/>tion, it is certainly most <hi>fatal;</hi> this is no sign of our
+<pb n="9" facs="tcp:65413:8"/>getting ground against <hi>him,</hi> but proves that he hath more throughly subdued and vanquisht <hi>us,</hi> and that he now keeps us at his own beck.</p>
+            <p>
+               <hi>Secondly,</hi> To remove their mistakes, who make themselves uneasy by imagining <hi>those things necessary</hi> to our <hi>overcoming</hi> of the Devil, which are not. As</p>
+            <p n="1">1. It is not necessary, that we should be able to <hi>free our selves from renewed Temptations.</hi> Satan's <hi>final rebuke</hi> is not to be expected while we are here in the World. How many <hi>repulses</hi> soever he meet with, we must look for <hi>fresh Assaults;</hi> how oft soever we put him to <hi>flight,</hi> he will assuredly be <hi>invading us again.</hi> The <hi>King of Israel</hi> had smitten the <hi>Syrians</hi> with a ve<g ref="char:EOLhyphen"/>ry <hi>great slaughter,</hi> and yet the Prophete warned him,<note place="margin">1 Kings 20.21, 22.</note> that at the <hi>return of the year,</hi> the <hi>King of Syria</hi> would make another attempt. So it is here; the Devil's <hi>Power</hi> may be broken, but still there will be repeated discoveries of his <hi>fury;</hi> he will never give up his Cause, nor be <hi>out of hope,</hi> till we are <hi>out of reach</hi> in the unmovable Kingdom, and possest of the incorruptible inheritance.</p>
+            <p n="2">2. It is not indispensibly necessary to our overcom<g ref="char:EOLhyphen"/>ing in the Gospel-sense, that we should be Conquerors over him <hi>in every particular Temptation.</hi> He that is never brought to give his <hi>deliberate Consent,</hi> may yet be foil'd by an <hi>unwilling Surprize.</hi> Satans prevalen<g ref="char:EOLhyphen"/>cy is not to be concluded from every <hi>Sin of infirmity</hi> or weakness; for <hi>who then should be saved?</hi> Or who then is <hi>recovered out of his Snare?</hi> The <hi>bruised Serpent</hi> is not utterly disabled from piercing us with his <hi>Sting.</hi> When the <hi>fiery Darts</hi> of the Devil are conti<g ref="char:EOLhyphen"/>nually flying so <hi>thick</hi> and <hi>swift</hi> was they do, it is not to be imagin'd that every one of them should be <hi>quencht</hi> as soon as <hi>thrown.</hi> A Man, who does not
+<pb n="10" facs="tcp:65413:9"/>out of choice,<note place="margin">Ephes. 4.27.</note> or with design, <hi>give place to the Devil,</hi> (which is the main thing that the Apostle forbids and cautions against) may nevertheless be sometimes <hi>over-power'd</hi> by him.</p>
+            <p n="3">3. It is not necessary that we should enjoy the <hi>cer<g ref="char:EOLhyphen"/>tain and comfortable Persuasion</hi> of this overcoming in our own minds, 'Tis possible to have the <hi>Victory,</hi> and for the Enemy to be put to flight, and yet the <hi>Dust</hi> and <hi>Smoak</hi> may be so great, that we may not <hi>see</hi> or <hi>know</hi> it. Many a weak (and yet sincere) belie<g ref="char:EOLhyphen"/>ver under <hi>dark and melancholy Clouds,</hi> does think him<g ref="char:EOLhyphen"/>self <hi>conquered,</hi> when he is at the same time <hi>more than Conqueror.</hi> It is the usual method of Satan to <hi>affright most,</hi> where he is capable of <hi>hurting least.</hi> He finds it no hard thing at some particular seasons to <hi>scare</hi> us with <hi>imaginary Wounds;</hi> as <hi>Jacob</hi> mourned for his Son <hi>Joseph,</hi>
+               <note place="margin">Gen. 37.31, 33.</note> supposing him to be <hi>torn in pieces,</hi> when his <hi>Coat was only dipt in blood,</hi> by the Artifice of his malicious Brethren, to cover the delusion. He makes us believe, that we have <hi>receiv'd</hi> his Temptations, when we have with greatest <hi>loathing rejected</hi> them; and that he hath fastened the guilt and defilement upon <hi>us,</hi> when the <hi>Sin lies</hi> no where but <hi>at his own door.</hi>
+            </p>
+            <p n="4">4. It is not absolutely necessary to our overcoming of him, that there should be a <hi>total extinguishing of that principle</hi> in our selves, which <hi>disposes</hi> us to yield to him. The <hi>treacherous party</hi> in our own Breasts will not be utterly destroyed, tho the <hi>External Ad<g ref="char:EOLhyphen"/>versary</hi> be routed. Nor does any Man <hi>in Temptation wholly oppose</hi> that Temptation, tho he do get the mastery of it <hi>in the end. Indwelling Sin</hi> in the best of Saints will side with the Tempter, and <hi>set them at variance</hi> against themselves. The Believer in such
+<pb n="11" facs="tcp:65413:9"/>a case, is like a <hi>Kingdom divided,</hi> and yet he <hi>stands;</hi> but 'tis by virtue of those Divine <hi>Succours</hi> which are sent in to him, (of which more afterwards). There is always a <hi>war in our Members,</hi> and too often a <hi>Cap<g ref="char:EOLhyphen"/>tivity,</hi>
+               <note place="margin">Rom. 7.23.</note> there is at the best, a <hi>Contention</hi> and struggle within, which Satan gets <hi>some</hi> advantage from, but not <hi>that</hi> which he covers and labours after.</p>
+            <p>
+               <hi>Thirdly,</hi> To shew wherein the <hi>real Conquest</hi> of the Devil lies. This <hi>Positive</hi> may easily be gather'd from the foregoing <hi>Negatives,</hi> and therefore the par<g ref="char:EOLhyphen"/>ticulars need to be but briefly hinted. As</p>
+            <p n="1">1. The Devil is <hi>truly overcome,</hi> when his <hi>Seat</hi> is thrown down, and an end put to his <hi>allowed Domini<g ref="char:EOLhyphen"/>on.</hi> If he be <hi>deposed</hi> from his usurpt <hi>Supremacy,</hi> and not suffered to <hi>Reign,</hi> he is really conquer'd. It is <hi>ruling Power</hi> which he aims at, and cannot be con<g ref="char:EOLhyphen"/>tent without the exercise of; if he cannot <hi>Lord</hi> it over the Soul, and sway the <hi>Scepter</hi> there, he loses his end. Wheresoever Christ is set up as King, and <hi>appointed to be head</hi> (by the Soul's free choice,<note place="margin">Hosea 1.11.</note> as well as God's powerful Designation) Satan is <hi>dragg'd</hi> af<g ref="char:EOLhyphen"/>ter his <hi>Triumphal Chariot.</hi> You whom Jesus go verns, are under victorious Grace, and not the <hi>set<g ref="char:EOLhyphen"/>led influence</hi> of sinful Temptations. Our great Ad<g ref="char:EOLhyphen"/>versary knows no middle Condition between <hi>tram<g ref="char:EOLhyphen"/>pling upon our Necks,</hi> and <hi>lying vanquisht at our Feet.</hi>
+            </p>
+            <p n="2">2. The Devil is indeed overcome, so long as we <hi>continue resisting</hi> him, tho we still <hi>continue assaulted</hi> by him. If we <hi>stand our ground,</hi> we make him <hi>flee;</hi>
+               <note place="margin">James 4.7.</note> it he do not prevail over us, we do in effect prevail against him; as long as he is not <hi>entertain'd,</hi> he is <hi>defeated.</hi> It does not serve the Devil's purpose meer<g ref="char:EOLhyphen"/>ly to <hi>molest</hi> us by <hi>Temptation,</hi> unless he can thereby
+<pb n="12" facs="tcp:65413:10"/>
+               <hi>draw forth our Corruption.</hi> A <hi>Garison</hi> that <hi>defends</hi> it self, and gives continual Repulses to the Enemy, acquits it self very well, tho the Enemy do not <hi>re<g ref="char:EOLhyphen"/>tire,</hi> or abandon the <hi>Siege.</hi> So, if the <hi>door of the heart</hi> be still kept shut against the Tempter, tho the Devil (like those <hi>Sodomites</hi> in <hi>Lot</hi>'s case) do <hi>press sore</hi> upon us,<note place="margin">Gen. 19.9.</note> and come near to <hi>force</hi> it, Victory attends us.</p>
+            <p n="3">3. The Devil is really overcome, when we <hi>reco<g ref="char:EOLhyphen"/>ver from the Sin</hi> into which we are fallen, by <hi>serious Repentance.</hi> He hath accomplisht the <hi>least half</hi> of his design, in making of us <hi>Criminals,</hi> except he can keep us <hi>impenitent.</hi> Our <hi>returning to God</hi> will (in some respect) undo all the <hi>work of the Devil.</hi> We may say in this case,<note place="margin">Mic. 7.8.</note> as the Church does, <hi>Rejoyce not against me, oh mine Enemy; when I fall, I shall arise.</hi> Our <hi>falls</hi> by Sin do not please and <hi>gratify</hi> Sa<g ref="char:EOLhyphen"/>tan so much, as our <hi>rising again</hi> by renewed Con<g ref="char:EOLhyphen"/>version does frustrate and <hi>disappoint</hi> him. When he hath <hi>cast us into the mire,</hi> he still misseth his principal aim, unless he can perswade us to <hi>wal<g ref="char:EOLhyphen"/>low in it.</hi> He that's <hi>overtaken with a fault,</hi> and speedily <hi>restored,</hi> cannot be look'd upon as Sa<g ref="char:EOLhyphen"/>tan's <hi>prey.</hi> The Tempter hath no cause to boast, if God <hi>heal</hi> us by his Grace, so that we <hi>dye not of our Wounds.</hi>
+            </p>
+            <p n="4">4. The Devil is overcome, if God <hi>bring us off with victory</hi> in the <hi>close of all our conflicts.</hi> He that at the <hi>finishing of his course</hi> can say,<note place="margin">2 Tim. 4.7.</note>
+               <hi>I have kept the faith,</hi> may also safely pronounce, <hi>I have fought a good fight.</hi> The Battel may <hi>go against us</hi> several times throughout the <hi>Day,</hi> but if in the <hi>Evening</hi> our warfare <hi>issue well,</hi> we shall not be <hi>burt of the second death.</hi>
+               <note place="margin">Rev. 2.11.</note> The Devil very often <hi>comes down</hi> against us <hi>in great wrath,</hi> and
+<pb n="13" facs="tcp:65413:10"/>makes very violent onsets; and we may be <hi>seiz'd</hi> and <hi>retaken</hi> many a time before the end comes; but the <hi>end</hi> will <hi>determine all,</hi> and if that be successful, the reward is ours.<note place="margin">Psalm 129.2.</note>
+               <hi>Many a time have they afflicted me from my youth</hi> (says the Church, of another sort of Enemies) <hi>yet they have not prevailed against me; i. e.</hi> they have not absolutely prevailed; for after all, I have <hi>emerged,</hi> and do still <hi>subsist.</hi> In short, <hi>the bles<g ref="char:EOLhyphen"/>sing</hi> of that <hi>Tribe</hi> belongs to believers, concerning whom dying <hi>Jacob</hi> prophesied,<note place="margin">Gen. 49.19.</note> that <hi>a troop should overcome him, but he should overcome at the last.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The <hi>third</hi> thing is, to open how it can be said of any persons in this mortal state, That they have over<g ref="char:EOLhyphen"/>come the wicked one; for it is here exprest as a <hi>thing past.</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Some perhaps may say, what is this, but to make them triumphant <hi>before the time,</hi> and encourage them to <hi>set up their banners</hi> before the danger is over? That this may not therefore be mis<g ref="char:EOLhyphen"/>understood, these <hi>five</hi> following things are proper to be consider'd.</p>
+            <p n="1">1. Every Believer hath overcome <hi>in Christ as his head.</hi>
+               <note place="margin">Rom. 8.37.</note>
+               <hi>We are more than conquerors through him that lo<g ref="char:EOLhyphen"/>ved us,</hi> because he hath so gloriously conquered for us. He bids his Disciples to <hi>be of good cheer,</hi>
+               <note place="margin">John 16 33.</note>
+               <hi>because he had over come the world;</hi> and upon the same accounts we may take comfort from his overcoming the Devil, because he did it as a <hi>publick person,</hi> and therefore it turns to our advantage. Our <hi>General</hi> fought a single <hi>Duel,</hi> which gives <hi>success</hi> to his <hi>whole Army.</hi> The <hi>Second Adam gained</hi> as much on the behalf of his spiri<g ref="char:EOLhyphen"/>tual Seed by overcoming, as the <hi>First Adam lost</hi> to his natural Posterity by being overcome. Our Lord <hi>having spoiled Principalities and Powers,</hi>
+               <note place="margin">Colos. 2.15.</note> his faith<g ref="char:EOLhyphen"/>ful Subjects may also <hi>triumph over them.</hi>
+            </p>
+            <p n="2">
+               <pb n="14" facs="tcp:65413:11"/> 2. Believers have overcome <hi>in hope and expectation.</hi> They have the <hi>promise</hi> of God to assure them, that in a <hi>way</hi> of persevering watchfulness, and humble dili<g ref="char:EOLhyphen"/>gence, they shall be finally <hi>delivered out of the mouth of the Lion;</hi> and therefore they do as securely rest and depend upon it, as if their deliverance were <hi>obtain'd already,</hi> tho they do not flatter themselves by it into slothful and careless Presumption. Now there is so little <hi>hazard</hi> in trusting to God with our Salvati<g ref="char:EOLhyphen"/>on, who hath fully undertaken (after this manner) to effect it, that they which are <hi>called,</hi> and they which are <hi>saved,</hi>
+               <note place="margin">1 Cor. 1.18, 24.</note> are but two <hi>Denominations</hi> for the same <hi>Persons.</hi> And those things which may with such <hi>confidence</hi> be expected, are in some sense, as if they were <hi>actually</hi> had.</p>
+            <p n="3">3. They have overcome in <hi>desire and resolution.</hi> They are seeking <hi>and striving for the mastery,</hi> and are in some regards impatient till they get it. The vi<g ref="char:EOLhyphen"/>ctorious <hi>Palms</hi> are in their <hi>eye,</hi> and they think it long till they have them in their <hi>hands.</hi> No <hi>fight of affli<g ref="char:EOLhyphen"/>ctions</hi> is so sharp and tedious to them, as these encoun<g ref="char:EOLhyphen"/>ters with polluting temptations. If they had their <hi>wish,</hi> they would not remain contending with <hi>Ama<g ref="char:EOLhyphen"/>lek in the valley,</hi> but get up into the <hi>mount,</hi> and con<g ref="char:EOLhyphen"/>verse with God. However, their fixed <hi>purpose of heart is,</hi> to hold out so long as God thinks fit to de<g ref="char:EOLhyphen"/>lay their discharge: they will continue <hi>warring,</hi> till the very moment of their <hi>entrance into peace;</hi> and are set to <hi>resist evil,</hi> as others are to <hi>do</hi> it. Now he that seriously determines in himself, to make no <hi>agree<g ref="char:EOLhyphen"/>ment with Hell,</hi> may answerably promise himself an happy issue of his <hi>opposition</hi> to it.</p>
+            <p n="4">4. They have overcome <hi>in part,</hi> they are snatch'd out of Satan's jurisdiction,<note place="margin">Colos. 1.13.</note> and <hi>translated</hi> (by a work of sanctification) <hi>into the Kingdom of Christ.</hi> They
+<pb n="15" facs="tcp:65413:11"/>have gained <hi>many victories,</hi> which are as so many Earnests and Pledges of the <hi>last;</hi> they have escap'd the rage of the murtherer of souls <hi>several times;</hi> and this comfortable experience emboldens them to be<g ref="char:EOLhyphen"/>lieve that they shall escape it. God hath kept them in <hi>this</hi> and <hi>that,</hi> and the <hi>other hour of temptation;</hi> and from thence they justly collect the certainty of their future preservation; and in the language of the Scripture, that which is certainly future, is often set forth as present or past.</p>
+            <p n="5">5. They may very well be said to have overcome, because it is but a very <hi>little while</hi> before their <hi>war<g ref="char:EOLhyphen"/>fare will be accomplish'd;</hi> the Holy Ghost puts us in mind that it will be shortly;<note place="margin">Rom. 16.20.</note> and what will shortly be, is <hi>as good as done.</hi> Our blessed Lord upon the <hi>near approach</hi> of his death, cries out,<note place="margin">John 17.4.</note>
+               <hi>I have finished he work,</hi> &amp;c. which could not be strictly said till he had <hi>given up the ghost,</hi> for he was <hi>made perfect through</hi> his dying <hi>sufferings;</hi> and yet because his work then wanted so little of being compleated, he tells his Father, I <hi>have</hi> done it. So as soon as the <hi>thin va<g ref="char:EOLhyphen"/>pour</hi> of this bodily life <hi>vanishes away,</hi> our triumph will begin, and it can be no very considerable space before <hi>that</hi> does so. Our <hi>whole time</hi> which we pass here up<g ref="char:EOLhyphen"/>on Earth, is but a <hi>narrow edge</hi> on this side of Eterni<g ref="char:EOLhyphen"/>ty; and therefore <hi>when a few days are come,</hi> this will be verified of the faithful, which is now spoken by <hi>anticipation; Ye have overcome the wicked one.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> The <hi>fourth</hi> thing is to give the Reasons why 'tis the peculiar duty of <hi>young ones</hi> to endeavour an <hi>early</hi> victory over this wicked one. Of many that might be named, I propose only these which follow.</p>
+            <pb n="16" facs="tcp:65413:12"/>
+            <p>
+               <hi>First,</hi> The Devil takes <hi>possession</hi> of us <hi>betimes,</hi> e<g ref="char:EOLhyphen"/>ven <hi>from the womb.</hi> As there are <hi>lusts</hi> which begin to <hi>war against the soul,</hi> when it first inhabits the body, so there are temptations propounded, which work upon those lusts. The <hi>Prince of this world</hi> hath his <hi>Infantry</hi> at his command;<note place="margin">1 Sam. 8.11.</note> as it was foretold concerning <hi>Saul,</hi> that he would <hi>take the sons of the Isralites</hi> [a righte<g ref="char:EOLhyphen"/>ous punishment of the folly of the <hi>Parents</hi> in desiring him] and <hi>appoint them to run before his Chariots.</hi> The <hi>wicked one</hi> often times influences those that are scarce arriv'd to the <hi>exercise of Reason,</hi> to vent their pro<g ref="char:EOLhyphen"/>phane <hi>scoffs against Religion;</hi>
+               <note place="margin">2 Kings 2.23.</note> as he taught the <hi>little Children</hi> of the City to mock a venerable <hi>Prophet.</hi> How frequently does he that was a <hi>lyar</hi> from the be<g ref="char:EOLhyphen"/>ginning, <hi>dictate lies</hi> to those that are newly crept out of their <hi>Cradles!</hi>
+               <note place="margin">Psalm 58.3.</note> We are born <hi>Children of Hell;</hi> not only exposed to the <hi>wrath of God,</hi> but in a state of <hi>vassalage to the Devil,</hi> and as soon as our <hi>Members</hi> can be <hi>moral instruments</hi> in his service, they are yield<g ref="char:EOLhyphen"/>ed up to it. As the <hi>Idolatrous Jews</hi> of old made their <hi>sons and their daughters to pass through the fire to Moloch;</hi> so the least piece of <hi>Adam,</hi> is as a <hi>brand</hi> in the <hi>common burning,</hi> till God comes to <hi>pluck it out.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The <hi>power</hi> of the Devil is <hi>every day in<g ref="char:EOLhyphen"/>creas'd,</hi> the longer we continue under it. Therefore <hi>wickedness</hi> is truly said to <hi>burn as the fire;</hi>
+               <note place="margin">
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>saiah 9.18.</note> which, after it is once kindled by his <hi>breath</hi> in our <hi>combustible matter, runs</hi> along and <hi>speeds</hi> very fast, and becomes <hi>more and more</hi> irresistible. <hi>Evil men,</hi> who are under the conduct of the evil Spirit,<note place="margin">Tim 3.13.</note> cannot but <hi>wax worse and worse.</hi> They who are in the <hi>snares of the Devil,</hi> find new <hi>entangle<g ref="char:EOLhyphen"/>ments</hi> daily; and when he can plead prescription for his residence in us, 'tis the harder to remove him. The
+<pb n="17" facs="tcp:65413:12"/>Disciples <hi>could not cast the dumb spirit out</hi> of that per<g ref="char:EOLhyphen"/>son in the Gospel, which had <hi>come unto him of a child.</hi>
+               <note place="margin">Mark. 9.18, 21.</note> Satan is easier and sooner <hi>ejected</hi> at the first, before he hath rooted himself, and been confirm'd in his un<g ref="char:EOLhyphen"/>righteous <hi>Tenure.</hi> When you are given up to him by your own <hi>Act,</hi> God may give you up in <hi>judgment;</hi> you <hi>chuse your enemy</hi> for your leader, and God backs that choice with <hi>his sentence,</hi> that it shall be as you desire to have it. So that <hi>if you cannot run with foot<g ref="char:EOLhyphen"/>men,</hi>
+               <note place="margin">Jerem. 12.5.</note>
+               <hi>how can you contend with horses?</hi> If you are not able to withstand the Devil now, when he hath <hi>pos<g ref="char:EOLhyphen"/>sessed you</hi> (comparatively) <hi>but a little while,</hi> how will you do when his <hi>Kingdom is more establish'd?</hi> The <hi>sin<g ref="char:EOLhyphen"/>ner of a hundred,</hi> or eighty, or sixty <hi>years old,</hi> is much <hi>faster bound</hi> in the Devil's <hi>Fetters,</hi> than the sinner of twenty.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>Thirdly,</hi> Your <hi>compliance</hi> with <hi>charming tempta<g ref="char:EOLhyphen"/>tations</hi> now, will furnish Satan with <hi>matter</hi> of <hi>tor<g ref="char:EOLhyphen"/>menting accusations</hi> against you in your <hi>riper years,</hi> and perhaps to Eternity. How comfortable a reflection is it, when a man can appeal to God with the holy Prophet, <hi>My soul hath not been polluted</hi> (at least,<note place="margin">Ezek. 4.14.</note> not knowingly and wilfully) <hi>from my youth up, even till now.</hi>
+               <note place="margin">Job 13.26. Psal. 25.7.</note> But the <hi>transgressions and iniquities of youth</hi> have lain as an <hi>heavy burthen</hi> upon serious Penitents ma<g ref="char:EOLhyphen"/>ny years after: The <hi>Bruises</hi> which they neceived from Satan then, have been sadly <hi>felt</hi> in their <hi>old age.</hi> The pleasing vanities and follies of that time are common<g ref="char:EOLhyphen"/>ly reveng'd with <hi>distracting terrors;</hi> more particu<g ref="char:EOLhyphen"/>larly when the Sinner comes to his <hi>evil days,</hi> wherein the <hi>light is darkened,</hi> and the <hi>clouds return.</hi> Then the sins which he hath committed long ago, will pre<g ref="char:EOLhyphen"/>sent themselves to him, as ready to <hi>lie down with him in the dust;</hi> when <hi>he</hi> can follow the works of the De<g ref="char:EOLhyphen"/>vil no longer, <hi>they</hi> will follow him; <hi>haunt</hi> him upon
+<pb n="18" facs="tcp:65413:13"/>earth, and accompany him (if unrepented of) to Hell. Returning <hi>Ephraim</hi> was ashamed and con<g ref="char:EOLhyphen"/>founded, because he <hi>bore the reproach of his youth;</hi>
+               <note place="margin">Jerem. 31.19.</note> i e. of his youthful <hi>untamed wantonness.</hi> And those <hi>Jews</hi> that were <hi>convicted by their own conscience, went out one by one, beginning at the eldest even to the last: Be<g ref="char:EOLhyphen"/>ginning at the eldest,</hi>
+               <note place="margin">John 8.9.</note> to note the sense which they had of their own increased guilt, by greater length of time. Satan by this means hath so much the more to upbraid us with; and if the <hi>scars</hi> do wear out of our memory, they will not out of his.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Fourthly,</hi> There can be little hope of <hi>going to your graves,</hi> (especially) with internal <hi>peace,</hi> except you are very early in your conquests of the Devil. When you come within view of the pit, it will be a dismal <hi>spectacle</hi> to have your <hi>first</hi> debaucheries, with all the <hi>train</hi> of consequent licentiousness, <hi>set before you.</hi> If you would have your <hi>evening clear,</hi> and not <hi>go down in a cloud,</hi> you must not suffer the <hi>morning</hi> of your lives to be <hi>overcast</hi> and sullied with <hi>youthful lusts.</hi> Such as have been the <hi>slaves</hi> of the Devil so long, as from their very youth, may greatly fear to be his <hi>Prisoners</hi> for ever. It is not indeed to be sup<g ref="char:EOLhyphen"/>pos'd, how any one can overcome the <hi>last enemy, death,</hi> without this previous victory over <hi>him that hath the pow<g ref="char:EOLhyphen"/>er of death.</hi> And how soon may that enemy come upon any of us, in our most <hi>sprightly time of life,</hi> with de<g ref="char:EOLhyphen"/>structive force <hi>like an armed man!</hi>
+               <note place="margin">Ezek. 16.50.</note> How often do we see God <hi>taking away</hi> one with another, promiscuously, <hi>as he sees good?</hi> How many thousands are quick<g ref="char:EOLhyphen"/>ly <hi>snatch'd</hi> away as in a <hi>moment,</hi> who propos'd to themselves <hi>many years to come?</hi> so that if they had <hi>any thoughts</hi> of quitting the Devil's service hereafter, yet <hi>in the day</hi> that their hasty <hi>breath went forth,</hi> those <hi>thoughts perished</hi> together with themselves.</p>
+            <pb n="19" facs="tcp:65413:13"/>
+            <p>
+               <hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly,</hi> The <hi>sooner we begin</hi> this work, the <hi>better able</hi> we shall be to <hi>carry it on.</hi> We know that <hi>Disci<g ref="char:EOLhyphen"/>plin'd</hi> men, who have been <hi>bred up to the wars</hi> from the very first, are counted the <hi>flower of an Army,</hi> and the greatest hopes are built upon their performance. God <hi>can</hi> indeed <hi>teach the fingers to fight,</hi> when the <hi>joints</hi> are <hi>stiff,</hi> and the parts are <hi>feeble,</hi> as he instructs the <hi>youngest</hi> when they enter the <hi>field;</hi> but to neglect present advantages in dependance upon God's <hi>absolute power,</hi> is very foolish and mischievous presumption. Ordinarily they handle and manage their <hi>spiritual weapons</hi> best, who have <hi>tried</hi> them longest. It is ma<g ref="char:EOLhyphen"/>nifest, that <hi>custom in evil</hi> tends very much to harden<g ref="char:EOLhyphen"/>ing; the people of <hi>Samaria</hi> had the <hi>more regard</hi> to <hi>Si<g ref="char:EOLhyphen"/>mon Magus,</hi>
+               <note place="margin">Acts 8.11.</note> because he had <hi>of a long time bewitched them with his sorceries.</hi> And so on the other hand, <hi>custom in good</hi> is greatly helpful to the new nature, and its operations; the Apostle gives the preheminence to those that are <hi>of full age</hi> in Religion,<note place="margin">Hebr. 5.14.</note> because <hi>by rea<g ref="char:EOLhyphen"/>son of use they have their senses exercised to discern,</hi> &amp;c. The more victories we have gotten over temptations, the more easily we <hi>may get</hi> the rest.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>Sixthly,</hi> The <hi>earlier</hi> we engage in this warfare, the more <hi>dear</hi> and <hi>delightful</hi> shall we be to God. As <hi>Satan desires to have you,</hi> so God desires it, and ho<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>ill</hi> must he take it, to see you gratify an enemy <hi>before him?</hi> But when <hi>young ones</hi> come and <hi>list</hi> themselves under Christ, they <hi>ravish his</hi> very <hi>heart;</hi> as <hi>John,</hi> who is eminently stiled <hi>the Disciple whom Jesus loved,</hi> is generally suppos'd to be the <hi>youngest</hi> of them all. The <hi>kindness of youth</hi> is especially <hi>remembred,</hi> even when Saints come to their <hi>hoary hairs;</hi> as they shall carry the <hi>Birthright</hi> from elder sinners (like <hi>Jacob</hi> from <hi>E<g ref="char:EOLhyphen"/>sau</hi>) so they will be <hi>favoured more highly,</hi> than such as come in <hi>late</hi> to God, and are <hi>born</hi> (as it were) <hi>out
+<pb n="20" facs="tcp:65413:14"/>of due time.</hi> Among all the children of God, his <hi>Benjamins</hi> use to be his <hi>Darlings,</hi>
+               <note place="margin">Gen. 43.34.</note> the <hi>sons of his right hand;</hi> and commonly their <hi>mess</hi> of spiritual comfort is <hi>larger</hi> than any of their Brethrens.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <hi>Seventhly,</hi> It will be for your greater and <hi>more abun<g ref="char:EOLhyphen"/>dant honour in both worlds.</hi>
+               <note place="margin">Prov. 20 29.</note> The wise man says, That <hi>the glory of young men is their strength;</hi> it is indeed re<g ref="char:EOLhyphen"/>markably so, when <hi>spiritual</hi> strength goes along with <hi>natural;</hi> when, as the <hi>bones are moistened with marrow,</hi> so the soul is like a <hi>watered Garden,</hi> full with the in<g ref="char:EOLhyphen"/>fluences of grace, and free from the <hi>poysonous weeds</hi> of Satan's planting. This is the way <hi>to be counted to the Lord for a generation;</hi>
+               <note place="margin">Psal. 22.30.</note> or else you will be <hi>base and con<g ref="char:EOLhyphen"/>temptible,</hi> and worse than nothing in the World. It was double credit to <hi>Gideon,</hi>
+               <note place="margin">Judg. 8.13.</note> that he <hi>return'd from bat<g ref="char:EOLhyphen"/>tel,</hi> and had <hi>discomfited the host</hi> which he went against, <hi>before the sun was up.</hi> And so it raised the Reputati<g ref="char:EOLhyphen"/>on of <hi>David,</hi>
+               <note place="margin">1 Sam. 17.56.</note> that he a <hi>Stripling,</hi> prevailed over the <hi>mighty Philistine.</hi> Therefore he that would be a true <hi>man of renown,</hi> let him be as <hi>David,</hi> and go forth in his youth against the <hi>infernal Goliah.</hi> This is the at<g ref="char:EOLhyphen"/>chievement which will render you <hi>more honourable than the most</hi> in this world, and add to your <hi>glory</hi> in the next also; your <hi>Throne</hi> in Heaven will be so much the more <hi>lifted up,</hi> and your <hi>Crown</hi> the <hi>brighter.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+               <hi>Eighthly,</hi> It will prove the best <hi>Security</hi> to you, from the hurt of those <hi>secular Employments</hi> and <hi>Con<g ref="char:EOLhyphen"/>verses,</hi> which you are <hi>launching</hi> into. It is obser<g ref="char:EOLhyphen"/>vable, That our Lord's Signal Conflict with the Tempter,<note place="margin">Mark 1.13, 14.</note> was at the very <hi>entrance of his Publick Life</hi> and Ministry. Our <hi>private</hi> Life is <hi>less obnoxious</hi> in many things to Temptatation, than when we are got into the <hi>Croud</hi> and <hi>Hurry</hi> of Temporal <hi>Affairs,</hi> and of mixt Societies. The <hi>World</hi> is one of the De<g ref="char:EOLhyphen"/>vil's <hi>Seconds;</hi> but if we Conquer the <hi>God of the
+<pb n="21" facs="tcp:65413:14"/>World,</hi> we make the best provision for <hi>overcoming the World</hi> it self. You, who would make a safe and prosperous <hi>Voyage</hi> over this <hi>deep and wide Sea</hi> of Temptations, ought to be well-fortified against the Tempter at your <hi>first setting out.</hi> Most Persons are cautious of going into <hi>infected</hi> places, unless they carry some proper <hi>Antidotes</hi> about them; and un<g ref="char:EOLhyphen"/>questionably it behoves us much more to take care, that we may be <hi>unspotted in a defiling World,</hi> which we cannot be, so long as the <hi>foul Spirit</hi> hath a predo<g ref="char:EOLhyphen"/>minant Interest in us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+               <hi>Ninthly</hi> and <hi>Lastly,</hi> You may by this means be<g ref="char:EOLhyphen"/>come useful <hi>Blessings in the midst of the Land,</hi> and prove instrumental of <hi>reforming</hi> and <hi>saving</hi> a very degene<g ref="char:EOLhyphen"/>rate People, that seem to be <hi>fitted for destruction.</hi> If these Nations be retriev'd from the Ruin that threa<g ref="char:EOLhyphen"/>tens them, Satan must be <hi>cast down,</hi> and his Domi<g ref="char:EOLhyphen"/>nion subverted, which is most likely to be done by <hi>your hands.</hi>
+               <note place="margin">Psalm 127.5.</note> Young ones are compared to the <hi>Arrows of a mighty man,</hi> and 'tis said, that <hi>they shall speak with the Enemies in the Gate.</hi> It is too notorious, that for many years past, Wickedness hath <hi>run down like a mighty Stream;</hi> how happy would the King<g ref="char:EOLhyphen"/>dom be, if the <hi>rising Generation</hi> would unite their endeavours for the <hi>turning</hi> of it! The Devil hath <hi>got far more ground</hi> in the present Age, than heretofore; and it is your <hi>special Province</hi> to <hi>recover</hi> it from him; for it cannot be imagined, that such as are come to their feeble and <hi>declining years,</hi> who are going off the Stage, and it may be, in many cases (like <hi>Peter</hi>) <hi>carried whither they would not,</hi>
+               <note place="margin">John 21.18.</note> should be so <hi>able,</hi> or so <hi>active.</hi> The bad Examples of others, who make these <hi>Times</hi> so <hi>perillous</hi> as they are, should provoke you to mend them by your own. As,<note place="margin">1 Sam. 2.17, 18.</note> when <hi>the sin of the young men</hi> (<hi>viz.</hi> Eli<hi>'s Sons</hi>) was
+<pb n="22" facs="tcp:65413:15"/>so <hi>very great before the Lord,</hi> that men for their sakes <hi>abhorred the Offering of the Lord,</hi> it is said, that <hi>Sa<g ref="char:EOLhyphen"/>muel ministred before the Lord, being a Child.</hi> The more <hi>Debauchery</hi> is propagated by others of <hi>your own standing,</hi> the more should you discourage and check it by your own <hi>Eminent Holiness;</hi> or else you may sadly expect, that the <hi>Country</hi> which hath <hi>brought you forth,</hi> will at length <hi>cast you out</hi> together, as <hi>unnatural Children,</hi> and <hi>abominable Branches.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> In the <hi>Fifth</hi> place, To <hi>Apply</hi> all this, to those whom the <hi>Text</hi> concerns in a peculiar manner. What can he more fitly prest upon young Persons, who have <hi>not yet</hi> overcome the wicked one, than that they would <hi>now and henceforward</hi> labour to do it? And if any one be so far wrought upon, as to ask, What course shall we take <hi>in order to</hi> this end? I shall pro<g ref="char:EOLhyphen"/>pound and advise the ensuing <hi>Methods.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>First,</hi> Look after <hi>a change of State.</hi> There is an indispensible necessity of this, to our <hi>getting out</hi> of Satan's Kingdom, as well as <hi>entrance into</hi> God's. Every man is <hi>born like a wild Ass's Colt;</hi>
+               <note place="margin">Job 11.12.</note> (that's your Chara<g ref="char:EOLhyphen"/>cter, and it is <hi>not I</hi> that give it, <hi>but the Lord</hi>) nothing can <hi>mend</hi> this Temper and Disposition, but the <hi>making</hi> of us anew by a <hi>Second Birth;</hi> and yet till it be mended, what can be expected from you, but a <hi>mad running</hi> into Sin, and <hi>furious driving</hi> towards Hell? Souls that are not <hi>subdued</hi> to Christ by the Spirit in the Work of <hi>Regeneration,</hi> will never be released from their <hi>Captivity</hi> and <hi>Vassalage</hi> to the Devil. It was ex<g ref="char:EOLhyphen"/>cellently said by a late <hi>worthy</hi> Author,<note place="margin">Mr. <hi>W. Mar<g ref="char:EOLhyphen"/>shall</hi>'s Gospel-Mystery of Sanctification, <hi>p.</hi> 88.</note>
+               <hi>The Devil will certainly conquer all whom he fighteth with upon his own Dunghill, that is, in a natural State.</hi> So long as we are <hi>Carnal,</hi> our <hi>Weapons</hi> will be so, and consequent<g ref="char:EOLhyphen"/>ly not <hi>mighty.</hi> It is spoken exclusively, <hi>Whatsoever
+<pb n="23" facs="tcp:65413:15"/>is born of God, overcometh the world;</hi>
+               <note place="margin">1 John 5.4.</note> and so I may say of overcoming Satan too, none can do it, but they that are born of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Secondly,</hi> Be sensible of your own <hi>remaining impo<g ref="char:EOLhyphen"/>tency,</hi> even in a gracious and <hi>spiritual State.</hi> As we are wholly <hi>without strength,</hi> before we are born again; so our own strength is not <hi>sufficient</hi> afterwards with<g ref="char:EOLhyphen"/>out renewed succors. <hi>Gideon</hi>'s Son being but a <hi>Youth,</hi> was afraid to draw his Sword against the two Kings of <hi>Midian,</hi>
+               <note place="margin">Judges 8.20.</note> tho his heart was unquestionably in his Father's Cause: And if the <hi>Lord</hi> himself do not <hi>rebuke Satan,</hi> and send in <hi>Auxiliary</hi> Force at such seasons to us, we may sadly fear the concluding Event of all. To the best and greatest <hi>Saints,</hi> if left to themselves, and unassisted by God. Satan is truly <hi>in<g ref="char:EOLhyphen"/>vincible.</hi> Therefore Grace <hi>already received,</hi> is not to be depended on, but the <hi>further aids</hi> of the Spirit. When we <hi>think</hi> we can do any thing, we can <hi>indeed</hi> do nothing; and as the Apostle said,<note place="margin">2 Cor. 12.10.</note>
+               <hi>When I am weak, then am I strong;</hi> so on the contrary, when we are <hi>strongest</hi> in our own Opinion, we always find our selves to be really <hi>weakest.</hi> There is a vast difference between the success of those that <hi>trust</hi> on <hi>God's arm,</hi> and of them that <hi>lean</hi> to their own imaginary Power. <hi>Even the youths shall faint, and the young men shall ut<g ref="char:EOLhyphen"/>terly fall</hi> (their <hi>self-considence</hi> will deceive and destroy them) <hi>but they that wait upon the Lord,</hi>
+               <note place="margin">Isaiah 40.30, 31.</note>
+               <hi>shall renew their strength.</hi> If then, you will escape in the Spi<g ref="char:EOLhyphen"/>ritual Battels, be deeply convinc'd that your <hi>case is</hi> like that of <hi>Jeh saphat,</hi> and your <hi>frame ought</hi> to be so;<note place="margin">2 Chron. 20.12.</note>
+               <hi>We have no might against this great company that comes against us, neither know we what to do, but our eyes are upon thee.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Thirdly,</hi> Exercise <hi>Faith</hi> in a special manner upon <hi>Jesus Christ,</hi> as the <hi>Captain of your Salvation.</hi> Consi<g ref="char:EOLhyphen"/>der
+<pb n="24" facs="tcp:65413:16"/>him particularly, as your <hi>Omnipotent Leader</hi> in this War, as one who is every way qualified, both to <hi>repel</hi> your Enemies, and to <hi>rescue</hi> you. God's <hi>Israel</hi> have the <hi>shout of</hi> this <hi>King among them;</hi> he that <hi>sits at God's right hand,</hi> does also <hi>stand at theirs.</hi> Have an eye therefore, not only to his infinitely <hi>prudent Conduct,</hi> but to his <hi>saving Abilities.</hi> As we must follow him, by receiving his <hi>Directions and Commands,</hi> so we should rest upon him for our <hi>Preservation</hi> and <hi>Sup<g ref="char:EOLhyphen"/>port.</hi> We have the <hi>promise of the Father to</hi> embolden us,<note place="margin">Isaiah 53.12.</note> that his Son <hi>shall divide the Spoil with the strong;</hi> and the blessed <hi>Heir</hi> of such a promise, may justly be our <hi>hope.</hi> Nothing can <hi>cover</hi> us from the rage of him that contends with us, but this <hi>Shield of Faith;</hi> and this will effectually do it. <hi>Balack</hi> thought that <hi>Balaam</hi>'s <hi>cursing of Israel,</hi>
+               <note place="margin">Num. 22.11.</note> would enable him to <hi>over<g ref="char:EOLhyphen"/>come and drive them out;</hi> but tho he was mistaken in that, we cannot look for too much from him, of whom <hi>Balaam prophesied.</hi>
+               <note place="margin">Num. 24.17.</note> The <hi>Prince of this World</hi> being <hi>judged</hi> by Christ, and lying under his Sen<g ref="char:EOLhyphen"/>tence, our <hi>believing on</hi> Christ, must greatly help our Victory.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Fourthly,</hi> Let your <hi>Holiness be Ʋniversal.</hi> Neglect not the <hi>putting on</hi> of any part of <hi>the Armour of God,</hi>
+               <note place="margin">Ephes. 6.11.</note>
+               <hi>that you may be able to stand against the wiles of the Devil.</hi> If it be not <hi>on our right hand,</hi>
+               <note place="margin">2 Cor. 6.7.</note>
+               <hi>and on our left,</hi> we are but weakly defended against those Adversaries that <hi>surround us on every side.</hi> As we cannot success<g ref="char:EOLhyphen"/>fully mortify <hi>any</hi> lust, unless we do <hi>every one;</hi> so we cannot expect to conquer <hi>any sort</hi> of Temptations, unless we set our selves resolvedly to conquer <hi>all.</hi> Let Sin be <hi>odious</hi> to you, <hi>as Sin,</hi> and then you will fly from the <hi>whole kind.</hi> It was therefore a good rule gi<g ref="char:EOLhyphen"/>ven by a <hi>great Divine,</hi>
+               <note place="margin">
+                  <hi>Ames.</hi> de Con<g ref="char:EOLhyphen"/>scientiâ <hi>p.</hi> 95.</note> (tho borrowed, as he acknow<g ref="char:EOLhyphen"/>ledges, from <hi>another</hi>) <hi>Cum fuga tentationis conjungenda
+<pb n="25" facs="tcp:65413:16"/>est indignatio.</hi> Temptations are to be rejected with <hi>abhorrence;</hi> for there can be no <hi>true holiness,</hi> if there is not a <hi>loathing of the contrary.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>Fifthly, Resist the Devil</hi> vigorously <hi>at the first.</hi> A <hi>faint</hi> resistance gives him mighty <hi>encouragement;</hi> and if we do not <hi>beat him back</hi> in his first <hi>approaches towards</hi> us, 'tis a greater difficulty to do it when he is <hi>got with<g ref="char:EOLhyphen"/>in us.</hi> As the Apostle says,<note place="margin">Gala. 2.5.</note> That they <hi>gave place</hi> to the false teachers, <hi>no, not for an hour;</hi> so we should not <hi>yield</hi> to the suggestions of this lying Spirit, <hi>so much as for a moment.</hi> Prepare against your Adversary when you discern him <hi>a great way off,</hi> and suffer him not to make his <hi>gradual</hi> advances unregarded and un<g ref="char:EOLhyphen"/>disturb'd. It does not only behove us to <hi>watch and pray, that we may not enter into temptation;</hi>
+               <note place="margin">Matt. 26.41.</note> but to <hi>lift up a prayer as soon</hi> as we are in it, and to <hi>stand upon our guard as long</hi> as it continues upon us. Very little <hi>in<g ref="char:EOLhyphen"/>troductions</hi> of sin (if let alone, and not speedily sup<g ref="char:EOLhyphen"/>press'd) will <hi>increase</hi> and swell to <hi>greater wickedness;</hi> as the <hi>thickest Ice</hi> which will at length <hi>bear the vastest weight,</hi> frequently begins with a thin <hi>shaking cream.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>Sixthly,</hi> Take heed of <hi>rebelling against light;</hi> for this is to <hi>take part with</hi> the Devil, who never thinks him<g ref="char:EOLhyphen"/>self sure of us, till (like the <hi>Philistines</hi> in <hi>Sampson</hi>'s case) he hath <hi>put out our eyes.</hi> Stifling of Convictions which <hi>spring up within,</hi> or are <hi>offer'd from without,</hi> is a ma<g ref="char:EOLhyphen"/>king way for temptations. Satan does his work ef<g ref="char:EOLhyphen"/>fectually, when he hath overcome the <hi>struggles of conscience,</hi> and harden'd us against the <hi>admonitions of wise reprovers.</hi> Stubborn <hi>pride</hi> in chusing of <hi>our own ways,</hi> and withstanding all that tends to discover or remedy the <hi>Errors</hi> of them, is the <hi>plague of un<g ref="char:EOLhyphen"/>bridled youth.</hi> Nor can there be any worse <hi>token</hi> of re<g ref="char:EOLhyphen"/>mediless destruction; as the Prophet told <hi>Amaziah,</hi>
+               <note place="margin">2 Chro. 25.16.</note>
+               <hi>I
+<pb n="26" facs="tcp:65413:17"/>know that God hath determined to destroy thee, because thou hast not hearkened to my counsel.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <hi>Seventhly,</hi> Let <hi>the word of God abide in you.</hi> This is mentioned in the next verse following the Text, (where the words which I have endeavoured to open, are repeated with enlargement) <hi>I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>14</label> This <hi>abiding</hi> of the word, is a means of <hi>strengthning,</hi> and by consequence, of <hi>overcoming.</hi> The <hi>hiding of sin</hi> in our hearts, thrusts out the Word; but the <hi>hiding of the Word</hi> there, will keep out sin. If this Word be really <hi>engrafted,</hi>
+               <note place="margin">Ephes. 6.17.</note> temptations will be <hi>fruitless.</hi> This is the sharp <hi>sword of the spirit,</hi> which hath a pe<g ref="char:EOLhyphen"/>culiar <hi>edge</hi> to <hi>cut them in sunder. David</hi> found the be<g ref="char:EOLhyphen"/>nefit of it,<note place="margin">Psal. 17.4.</note> in being <hi>kept from the paths of the destroyer.</hi> Our Lord himself fought with this Weapon, <hi>It is written;</hi> and hath thereby recommended it to our constant use. <hi>Others Writings</hi> are but sorry <hi>Paper Breastplates</hi> and miserable Defensatives, in compari<g ref="char:EOLhyphen"/>son of <hi>these.</hi> If <hi>humane Authorities</hi> be urged against the Tempter, instead of <hi>Divine,</hi> he'll be ready to reply, as the did to those <hi>vagabond Jews,</hi>
+               <note place="margin">Acts 19.15.</note> that pretended to be <hi>Exorcists, Jesus I know, and Paul I know, but who are ye?</hi> the Devil must be <hi>put to silence</hi> with that which <hi>God hath spoken;</hi> and therefore he that is most <hi>mighty in the Scriptures,</hi> is likely to be best <hi>fortified</hi> against this <hi>unclean spirit.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:65413:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
